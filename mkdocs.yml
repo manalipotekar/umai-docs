@@ -1,0 +1,6 @@
+site_name: UMAI Engine Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Windows Requirements: windows-minimum-requirements.md
